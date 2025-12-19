@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "JsonBlueprintUtilities",
+			"Name": "BlueprintFileUtils",
 			"Enabled": true
 		},
 		{
-			"Name": "BlueprintFileUtils",
+			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		}
 	]
